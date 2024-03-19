@@ -1,4 +1,4 @@
-This repository contains the code used to generate the figures in Ford et al. (2024) in the form of Jupyter Notebooks.
+This repository contains the code used to generate the figures in Ford et al. (in prep. for JCLI) in the form of Jupyter Notebooks.
 
 There are three notebooks:
 - `nonfeedback-figures`, which recreates Figs. 1-4 and 7-10
